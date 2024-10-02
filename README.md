@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Ashiq
-#### I am a dedicated Computer Science student with a strong passion for research, data science, and machine learning. I have worked on practical projects in AI, web development, embedded systems, and programming languages including Python, C++, and Java. In anything I accomplish, I try to do it to the best of my ability. I'm committed to finishing tasks on schedule. 
+#### I am a dedicated Computer Science student with a strong passion for research, data science, and machine learning. I have worked on practical projects in AI, web development, embedded systems, and programming languages including Python, C++, and Java. In anything I accomplish, I try to do it to the best of my ability. I'm committed to finishing tasks on schedule. <br>
+![](https://komarev.com/ghpvc/?username=mahmud-ashiq)
 
 
 - 📫 How to reach me: m.ashiqfida@gmail.com 
